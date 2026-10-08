@@ -6,8 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Probuilder1.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Probuilder2.unity
+    guid: 278308cc7cb0f074ab7c703b694b72ae
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a790c1734545efe4b863aef8a40a5371, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: faf7413e17aad8842b97f04dcac5a490, type: 2}
   m_UseUCBPForAssetBundles: 0
